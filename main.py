@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Lists favorite thread links of user and saves them as .md.
 """
 from bs4 import BeautifulSoup
